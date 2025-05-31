@@ -1,0 +1,9 @@
+## Requirements
+
+- Python 3.x
+- `pycryptodome` library
+
+Install dependencies with:
+
+```bash
+pip install pycryptodome
